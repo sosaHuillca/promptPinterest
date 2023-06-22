@@ -1,0 +1,17 @@
+.card{
+  max-width: calc(450px - 80px);
+padding: 40px;
+border-radius: 50px;
+}
+.card form{
+  display: grid;
+gap:15px;
+width: 70%;
+margin: auto;
+}
+
+label{
+  display: grid;
+font-size: unset;
+font-weight: normal;
+}

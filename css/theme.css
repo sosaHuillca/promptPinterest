@@ -1,0 +1,27 @@
+body{
+  background: #7f7f7f;
+}
+.card{
+  background:white;
+}
+
+.btn-login{
+
+background: #e60023;
+}
+.btn-facebook{
+background:#1877f2;
+}
+.btn-google{
+background:#f7faff;
+color: slategray;
+border:1px solid #dadce0;
+}
+.btn-google i{
+  color: tomato;
+}
+p>a,
+p>strong{
+  color:black;
+  font-weight: bold;
+}
